@@ -10,7 +10,7 @@ Hi there, I'm <a href="mqaisarafridi.blogspot.com" target="_blank" rel="noreferr
 I'm a cyber security engineer 💻, Ethical hacker ✍️, and Pentester 🧑‍💻.
 </h2> 
 
-Hey there, it's me mahesh Muhammad Qaisar from pakistan. I love to know how things works under the hood in detail.  
+Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things works under the hood in detail.  
 
 ### 🤝 Connect with me:
 
