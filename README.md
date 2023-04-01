@@ -23,11 +23,11 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 ## 💼 Technical Skills
 
 ![](transparency))
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/web%20penetration%20testing-95%25-green)
+![](https://img.shields.io/badge/Network%20pentester-90%25-blue)
+![](https://img.shields.io/badge/Malware%20Analyst-85%25-yellow)
+![](https://img.shields.io/badge/API%20Pentester-80%25-white)
+![](https://img.shields.io/badge/Windows%20Security%20Auditor-84%25-black)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJs&color=003B57)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
