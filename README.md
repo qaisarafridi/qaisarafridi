@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="mqaisarafridi.blogspot.com" target="_blank" rel="noreferrer">qaisar</a> 👋
+Hi there, I'm <a href="mqaisarafridi.blogspot.com" target="_blank" rel="noreferrer">Muhammad Qaisar</a> 👋
 </h3>
 
 <h2 align="center">
@@ -20,7 +20,7 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-## 💼 Technical Skills
+## 💼 [Technical Skills](https://img.shields.io/badge/Red%20Teamer-90%25-red)
 
 ![](transparency))
 ![](https://img.shields.io/badge/web%20penetration%20testing-95%25-green)
