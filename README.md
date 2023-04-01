@@ -10,7 +10,7 @@ Hi there, I'm <a href="mqaisarafridi.blogspot.com" target="_blank" rel="noreferr
 I'm a cyber security engineer 💻, Ethical hacker ✍️, and Pentester 🧑‍💻.
 </h2> 
 
-Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things works under the hood in detail.  
+Assalam-o-Alekom! My name is Muhammad Qaisar Afridi.I am certified Ethical Hacker and cyber security professional with a Bachelor’s degree in Computer Science and a strong analytical understanding of hacker methodologies and tactics, system vulnerabilities, and critical indicators of cyber attacks and exploits, and i know hackers mind how they access on your network system.I have 5-year experience in cyber security different fields like Digital Forensic,web penetration testing, network penetration testing. Malware analysis, Computer penetration testing work as a red teamer and I also work as blue teamer incident responder. a have knowledge how to implement security for cyber attacks, like implementing SIEM PIM IAM Firewalls, honeypots network monitoring, mac filtering IDS IPS and endpoint protection system etc.i got high respected cyber security certificates, like CHE,CISSP,OSCP,OSWE,CHFI,COMPTIA A+ Security+ Network+, Splunk Certified user,Fortinet Firewalls,PRTG network monitoring, Symantic end point protection etc. .  
 
 ### 🤝 Connect with me:
 
@@ -22,23 +22,22 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 
 ## 💼  Working As ![](https://img.shields.io/badge/Red%20Teamer-90%25-red) |  ![](https://img.shields.io/badge/Blue%20Teamer-95%25-blue) 
 
-![](transparency))
+![](transparency)
 ![](https://img.shields.io/badge/web%20penetration%20testing-95%25-green)
 ![](https://img.shields.io/badge/Network%20pentester-90%25-blue)
 ![](https://img.shields.io/badge/Malware%20Analyst-85%25-yellow)
 ![](https://img.shields.io/badge/API%20Pentester-80%25-white)
 ![](https://img.shields.io/badge/Windows%20Security%20Auditor-84%25-black)
 ![](https://img.shields.io/badge/Android%20Pentester-80%25-red)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJs&color=003B57)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
+
 
 
 </br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+## Programing Skills
+![](https://img.shields.io/badge/Html-70%25-red%20)
+![](https://img.shields.io/badge/css-60%25-red%20)
+![](https://img.shields.io/badge/Javascript-50%25-red%20)
+![](https://img.shields.io/badge/python-70%25-red%20)
 
 
 </br>
