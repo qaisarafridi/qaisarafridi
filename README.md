@@ -33,7 +33,6 @@ Assalam-o-Alekom! My name is Muhammad Qaisar Afridi.I am certified Ethical Hacke
 
 
 </br>
-## Programing Skills
 ![](https://img.shields.io/badge/Html-70%25-red%20)
 ![](https://img.shields.io/badge/css-60%25-red%20)
 ![](https://img.shields.io/badge/Javascript-50%25-red%20)
