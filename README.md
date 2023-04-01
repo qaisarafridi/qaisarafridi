@@ -28,7 +28,7 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 ![](https://img.shields.io/badge/Malware%20Analyst-85%25-yellow)
 ![](https://img.shields.io/badge/API%20Pentester-80%25-white)
 ![](https://img.shields.io/badge/Windows%20Security%20Auditor-84%25-black)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Android%20Pentester-80%25-red)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJs&color=003B57)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
 
@@ -44,13 +44,7 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 </br>
 
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 
 ## 📝 Latest Blog Posts
 - [My cyber security blogs](64153f7def199.site123.me)
