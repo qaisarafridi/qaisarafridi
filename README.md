@@ -33,12 +33,7 @@ Assalam-o-Alekom! My name is Muhammad Qaisar Afridi.I am certified Ethical Hacke
 
 
 </br>
-![](transparency)
-![](https://img.shields.io/badge/Windows%20Security%20Auditor-84%25-black)
-![](https://img.shields.io/badge/Android%20Pentester-80%25-red)
 
-
-</br>
 
 
 
@@ -46,5 +41,5 @@ Assalam-o-Alekom! My name is Muhammad Qaisar Afridi.I am certified Ethical Hacke
 ## 📝 Latest Blog Posts
 - [My cyber security blogs](64153f7def199.site123.me)
 - [My Hacking tools](https://5e980cfd08e07.site123.me)
-- 
+- [My Bug reports POCs](https://www.youtube.com/channel/UCbU1yAXNxYhA_RLivk7tTMw)
 
