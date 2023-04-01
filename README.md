@@ -20,7 +20,7 @@ Hey there, it's me  Muhammad Qaisar from pakistan. I love to know how things wor
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-## 💼 [Technical Skills](https://img.shields.io/badge/Red%20Teamer-90%25-red)
+## 💼 [Red Teaming Skills] ![](https://img.shields.io/badge/Red%20Teamer-90%25-red)
 
 ![](transparency))
 ![](https://img.shields.io/badge/web%20penetration%20testing-95%25-green)
